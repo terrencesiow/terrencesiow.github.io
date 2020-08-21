@@ -1,11 +1,11 @@
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Images:
+	   Unsplash (unsplash.com)
 
 	Icons:
-		Font Awesome (fontawesome.io)
+	   Font Awesome (fontawesome.io) and Icon8 (icons8.com)
 
 	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+	   jQuery (jquery.com)
+	   Responsive Tools (github.com/ajlkn/responsive-tools)
