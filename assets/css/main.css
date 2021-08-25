@@ -1695,7 +1695,7 @@ input, select, textarea {
 	.vtimeline-point {
 		position: relative;
 		display: block;
-		vertical-align: top;
+		/* vertical-align: top; */
 		margin-bottom: 30px;
 	}
 
@@ -1821,7 +1821,7 @@ input, select, textarea {
 	ul.skills li{
 		display: inline-block;
 		padding: 5px 10px;
-		margin: 0 1px;
+		margin: 2px 1px;
 		color: #FFF;
 		background: #0288D1;
 		list-style: none;
@@ -1877,4 +1877,50 @@ input, select, textarea {
 		color: white;
 		font-size: 0.9em;
 		font-family: "Source Sans Pro", sans-serif;
+	}
+
+	.cert-list ul{
+		padding-left: 0;
+	}
+
+	.no-bullets{
+		list-style-type: none;
+	}
+
+	.cert-wrap{
+		display: flex;
+	}
+
+	.cert-wrap img{
+		display: block;
+		margin: auto;
+		max-width: fit-content;
+		max-height: fit-content;
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+
+	@media screen and (max-width: 480px) {
+		.cert-wrap img{
+			max-width: 100%;
+			max-height: 100%;
+		}
+	}
+
+	.image-column{
+		width: 40%;
+	}
+
+	.text-column{
+		width: 60%;
+		font-size: 0.8rem;
+		font-family: "Source Sans Pro", sans-serif;
+		margin-left: 1rem;
+	}
+
+	.text-column ul{
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
 	}
