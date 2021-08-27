@@ -1,5 +1,5 @@
 # terrencesiow.github.io
-Portfolio URL - terrencesiow.github.io/portfolio
+Portfolio URL - https://terrencesiow.github.io/portfolio
 
-Resume URL - terrencesiow.github.io/resume
+Resume URL - https://terrencesiow.github.io/resume
 
