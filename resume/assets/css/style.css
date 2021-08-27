@@ -101,7 +101,7 @@ p {
   opacity: .5 !important; }
 
 .container-fluid {
-  padding: 0px; }
+  padding: 10px; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "mouse-500", Arial, Helvetica, sans-serif; }
