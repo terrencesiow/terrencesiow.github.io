@@ -1,7 +1,5 @@
 # terrencesiow.github.io
-Gitpages contain my portfolio and resume
+Portfolio URL - terrencesiow.github.io/portfolio
 
-Portfolio - terrencesiow.github.io/portfolio
-
-Resume - terrencesiow.github.io/resume
+Resume URL - terrencesiow.github.io/resume
 
