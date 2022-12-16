@@ -1849,6 +1849,7 @@ input, select, textarea {
 		margin: 0;
 		font-size: 0.9rem;
 		font-family: "Source Sans Pro", sans-serif;
+		text-align: justify;
 	}
 
 	h4.desc{
